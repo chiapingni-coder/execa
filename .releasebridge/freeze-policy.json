@@ -1,0 +1,11 @@
+{
+  "schema": "RELEASEBRIDGE_PR_FREEZE_POLICY_V1",
+  "repo": "chiapingni-coder/execa",
+  "base_ref": "rb-execa-fix-baseline",
+  "protected_paths": [
+    {
+      "path": "lib/arguments/options.js",
+      "blob": "11409fc94d1c09e101bc546529ab78a9a722184c"
+    }
+  ]
+}
